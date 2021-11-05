@@ -3,5 +3,5 @@
 # Kaniko Demo
 
 Created for the following videos in [The DevOps Toolkit Series YouTube channel](https://www.youtube.com/c/TheDevOpsToolkitSeries):
-bunu ben yazdım
+
 * [Kaniko - Building Container Images In Kubernetes Without Docker](https://youtu.be/EgwVQN6GNJg)
